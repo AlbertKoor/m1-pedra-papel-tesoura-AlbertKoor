@@ -43,5 +43,5 @@ function playRockPaperScissor(player1, player2){
     }
 
 }
-const resultado = playRockPaperScissor('Papel', 'Papel');
+const resultado = playRockPaperScissor('', '');
 console.log(resultado); 
